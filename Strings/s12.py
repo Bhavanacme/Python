@@ -1,0 +1,10 @@
+message="Programming"
+print(message)
+print(message[-1])
+print(message[-2])
+print(message[-3])
+print(message[-4])
+print(message[-5])
+print(message[-6])
+print(message[-7])
+print(message[-8])

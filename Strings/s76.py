@@ -1,0 +1,7 @@
+print(ord("b"))
+print(ord("h"))
+print(ord("a"))
+print(ord("v"))
+print(ord("a"))
+print(ord("n"))
+print(ord("a"))

@@ -1,0 +1,9 @@
+t1=(1,2,3,4);
+print(type(t1));
+li=list(t1);
+print(type(li));
+print(li);
+li.append(5);
+li.append(6);
+li.append(7);
+print(li);

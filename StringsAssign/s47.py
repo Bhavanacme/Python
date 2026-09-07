@@ -11,4 +11,4 @@ for ch in text:
 print("Character frequency:")
 
 for ch in frequency:
-    print(ch, ":", frequency[ch])
+    print(ch, ":", frequency[ch]) 

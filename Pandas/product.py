@@ -1,0 +1,10 @@
+import pandas as pd
+df=pd.read_csv("product.csv")
+print(df)
+print(df.head())
+print(df.tail())
+print(df.describe())
+print(df.columns)
+print(df.shape)
+print(df.info())
+print(df["Product name"])
